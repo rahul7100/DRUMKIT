@@ -1,2 +1,3 @@
 # DRUMKIT
-Drum kit project
+
+Drum Kit Project
